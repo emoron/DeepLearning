@@ -1,7 +1,5 @@
 # DeepLearning
 
-Python notebooks of me learning deep learning
-
 ## How I Run Theano on Windows 10
 
 I couldn't get Theano to run natively on Windows 10 with Python 3.5, 
