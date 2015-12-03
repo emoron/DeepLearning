@@ -40,7 +40,7 @@ Now we install more stuff on top of this image and exit the image.
 
 ```
 pip install ipython
-pip install version_information`
+pip install version_information
 pip install notebook
 exit
 ```
