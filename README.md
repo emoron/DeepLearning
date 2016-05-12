@@ -25,7 +25,7 @@ docker pull kaixhin/theano
 Let's open the docker image
 
 ```
-docker run -it kaixhin theano
+docker run -it kaixhin/theano
 ```
 
 Now we're running `bash` inside the docker image. The prompt will look like:
